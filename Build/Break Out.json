@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Break Out",
+"productVersion": "1.5",
+"dataUrl": "Break Out.data.unityweb",
+"wasmCodeUrl": "Break Out.wasm.code.unityweb",
+"wasmFrameworkUrl": "Break Out.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
